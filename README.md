@@ -29,6 +29,10 @@ The application will be available at http://localhost:3000.
 
 I want to thank all the teachers of the academy for the time and willingness they had to resolve all the doubts that arose during the learning process.
 
+## Bibliography
+
+Full - Stack React Projects 2° edition by Shama Hoque 
+
 ## Authors
 
 - This project was developed by Milenati Federico Rodrigo Damián.
